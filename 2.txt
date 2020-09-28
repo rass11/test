@@ -24,15 +24,9 @@ Latest commit c672060 1 minute ago
 1 lines (1 sloc)  3 Bytes
   
 ggg
-© 2020 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
+
+test
+test
+test
+test
+test
